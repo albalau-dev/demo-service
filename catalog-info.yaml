@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: demo-service
   title: Demo Service
-  description: Servicio de prueba registrado desde mi GitHub personal para aprender Backstage.
+  description: Sample service registered from my personal GitHub to learn Backstage.
   tags:
     - demo
     - nodejs
