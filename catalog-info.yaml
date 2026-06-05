@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo-service
+  title: Demo Service
+  description: Servicio de prueba registrado desde mi GitHub personal para aprender Backstage.
+  tags:
+    - demo
+    - nodejs
+  annotations:
+    github.com/project-slug: albalau-dev/demo-service
+spec:
+  type: service
+  lifecycle: experimental
+  owner: navigator-platform
